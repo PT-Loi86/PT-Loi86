@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frameworks
 - 💞️ I’m looking to collaborate on life?
 - 📫 How to reach me? Idk either
-- 😄 Pronouns: Capybara
+- 😄 Pronouns: Capy/Capybara
 - ⚡ Fun fact: I'm not a capybara
 
 <!---
